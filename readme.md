@@ -4,9 +4,13 @@
   <img src="https://i.postimg.cc/vHbdLszx/Untitled-design-2.png" alt="Sample image" width="50%">
 </p>
 
-This project is a knowledge triumvirate of [Gladys](https://github.com/Gladysdata), [izzy](https://github.com/isi-mube) & [JC](https://github.com/jesus-jpeg).
-
-**Ironhack storytelling**: You are working as an analyst for a real estate company. Your company wants to build a machine learning model to predict the selling prices of houses based on a variety of features on which the value of the house is evaluated.
+<p>
+  This project is a knowledge triumvirate of <a href="https://github.com/Gladysdata">Gladys</a>, <a href="https://github.com/isi-mube">izzy</a> & <a href="https://github.com/jesus-jpeg">JC</a>.
+</p>
+<h2>Ironhack storytelling</h2>
+<p>
+  You are working as an analyst for a real estate company. Your company wants to build a machine learning model to predict the selling prices of houses based on a variety of features on which the value of the house is evaluated.
+</p>
 
 
 ## Objectives:
