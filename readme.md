@@ -4,7 +4,7 @@
 
 1. [SQL script](https://github.com/isi-mube/name-pending/tree/main/04_sql_script)
 2. [Python scripts](https://github.com/isi-mube/name-pending/tree/main/03_python_scripts)
-3. [Python sandboxes](https://github.com/isi-mube/name-pending)
+3. [Python sandboxes](https://github.com/isi-mube/name-pending/tree/main/05_jc_sandbox)
 
 
 ## About the project,
