@@ -6,10 +6,14 @@
 2. [Python scripts](https://github.com/isi-mube/name-pending/tree/main/03_python_scripts)
 3. [Python sandboxes](https://github.com/isi-mube/name-pending/tree/main/05_jc_sandbox)
 
+## Objectives:
 
-## About the project,
+💻 The following dataset consists of **one-year data** (between May 2014 - May 2015) historic data of houses sold in King County, which includes Seattle, among 21 different columns:
 
-💻 The following is a collection of **one-year data** (from May 2014 - May 2015) of house sale prices for King County, which includes Seattle, among 21 different columns:    
+
+## ...About the data,
+
+💻 The following dataset consists of **one-year data** (between May 2014 - May 2015) historic data of houses sold in King County, which includes Seattle, among 21 different columns:
   
 <table border="1">
   <tr>
@@ -102,26 +106,38 @@
   </tr>
 </table>
 
-## About sandboxes,
+## Official project deadline: 6 days.
+
+Week 12:
+* DAY 1: 25-04-2023 | Gladys/izzy/JC meeting: Project discussion, Tasks assignments and division. 
+* DAY 2: 27-04-2023 | Gladys/izzy/JC meeting: Starting with Trello, merging python scripts, starting to work on SQL and storytelling brainstorming
+* DAY 3: 28-04-2023 | Gladys/izzy/JC meeting: Futher improvments to the code and opening discussions, more task assigments and divison, SQL part done.
+
+Week 13:
+* DAY 1: 02-05-2023 | Gladys/izzy/JC meeting:
+* DAY 2: 06-05-2023 | Gladys/izzy/JC meeting: 
+* DAY 3: 09-05-2023 | Presentation day
+
+## ...About sandboxes,
 
 * They are just awesome and are basically a shared python playground for testing (mostly, [JC](https://github.com/jesus-jpeg) work !)
 
-## About python scripts,
+## ...About python scripts,
 
 * 01_data_extraction: We extracted and take a quick look to our data. Our target variable will be price and we decided to create a new feature called “house lifetime” (based on the subtraction of the current year and either year_renovated -if is not equal to 0- or the year built). Also, we draw general conclusions on how to use the data.
 * 02_data_cleaning: We check for duplicates, NaN or empty space. About dates (when the house was sold), we extracted the year and then encoded months with get_dummies, we also saved geographical information in a different dataset (Seattle), created “house_lifetime” feature and, lastly, kindly moved our target (price) to the right.
 * 03_eda: It felt like the actual data cleaning. We chekced distributions, skewness, outliers and correlations. We considered checking imbalance data, but made no sense in a Linear Regression model.
 
-## Model refining,
-
-* We discussed about making “house_lifetime” based on the last year of the dataset, instead of the current year (2023).
-* We discussed about making year a continuous variable, (e.g, 2013,02 to represent february) to have a a single feature that represents yearly trends.
-
-## Changes
-
 ## Model Results
 
 ## Testing the Model
+
+## Model refining,
+
+## Testing the New Model
+
+* We discussed about making “house_lifetime” based on the last year of the dataset, instead of the current year (2023).
+* We discussed about making year a continuous variable, (e.g, 2013,02 to represent february) to have a a single feature that represents yearly trends.
 
 ## Tools
 **Enviornments**
