@@ -11,6 +11,7 @@
 <p style="font-weight: bold; text-align: justify;">
   Ironhack storytelling:
 </p>
+
 <p style="text-align: justify;">
   You are working as an analyst for a real estate company. Your company wants to build a machine learning model to predict the selling prices of houses based on a variety of features on which the value of the house is evaluated.
 </p>
