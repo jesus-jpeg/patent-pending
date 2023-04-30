@@ -4,7 +4,7 @@
   <img src="https://i.postimg.cc/vHbdLszx/Untitled-design-2.png" alt="Sample image" width="50%">
 </p>
 
-This project is a knowledge triumvirate curated by [Gladys](https://github.com/Gladysdata), [izzy](https://github.com/isi-mube) & [JC](https://github.com/jesus-jpeg).
+This project is a knowledge triumvirate of [Gladys](https://github.com/Gladysdata), [izzy](https://github.com/isi-mube) & [JC](https://github.com/jesus-jpeg).
 
 1. [SQL script](https://github.com/isi-mube/name-pending/tree/main/04_sql_script)
 2. [Python scripts](https://github.com/isi-mube/name-pending/tree/main/03_python_scripts)
@@ -22,102 +22,7 @@ This project is a knowledge triumvirate curated by [Gladys](https://github.com/G
 
 ## About the Data:
 
-<p align="justify">
-  💻 The following is a collection of <b>one-year data</b> (from May 2014 - May 2015) of house sale prices for King County, which includes Seattle, among 21 different columns:
-</p>
-
-<p align="center">
-<table border="1">
-  <tr>
-    <th>Column Name</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td>id</td>
-    <td>A notation for a house</td>
-  </tr>
-  <tr>
-    <td>date</td>
-    <td>Date house was sold</td>
-  </tr>
-  <tr>
-    <td>price</td>
-    <td>Price is prediction target</td>
-  </tr>
-  <tr>
-    <td>bedrooms</td>
-    <td>Number of Bedrooms/House</td>
-  </tr>
-  <tr>
-    <td>bathrooms</td>
-    <td>Number of bathrooms/bedrooms</td>
-  </tr>
-  <tr>
-    <td>sqft_living</td>
-    <td>Square footage of the home</td>
-  </tr>
-  <tr>
-    <td>sqft_lot</td>
-    <td>Square footage of the lot</td>
-  </tr>
-  <tr>
-    <td>floors</td>
-    <td>Total floors (levels) in house</td>
-  </tr>
-  <tr>
-    <td>waterfront</td>
-    <td>House which has a view to a waterfront</td>
-  </tr>
-  <tr>
-    <td>view</td>
-    <td>Has been viewed</td>
-  </tr>
-  <tr>
-    <td>condition</td>
-    <td>How good the condition is Overall</td>
-  </tr>
-  <tr>
-    <td>grade</td>
-    <td>Overall grade given to the housing unit, based on King County grading system</td>
-  </tr>
-  <tr>
-    <td>sqft_above</td>
-    <td>Square footage of house apart from basement</td>
-  </tr>
-  <tr>
-    <td>sqft_basement</td>
-    <td>Square footage of the basement</td>
-  </tr>
-  <tr>
-    <td>yr_built</td>
-    <td>Built Year</td>
-  </tr>
-  <tr>
-    <td>yr_renovated</td>
-    <td>Year when house was renovated</td>
-  </tr>
-  <tr>
-    <td>zipcode</td>
-    <td>Zip code</td>
-  </tr>
-  <tr>
-    <td>lat</td>
-    <td>Latitude coordinate</td>
-  </tr>
-  <tr>
-    <td>long</td>
-    <td>Longitude coordinate</td>
-  </tr>
-  <tr>
-    <td>sqft_living15</td>
-    <td>Living room area in 2015</td>
-  </tr>
-  <tr>
-    <td>sqft_lot15</td>
-    <td>LotSize area in 2015</td>
-  </tr>
-</table>
-</p>
+Refer to --> [00_data](https://github.com/isi-mube/patent-pending/tree/main/00_data)
 
 ## Official project deadline: 6 days.
 
