@@ -11,12 +11,12 @@ This project is a knowledge triumvirate of <a href="https://github.com/Gladysdat
 
 ## Objectives:
 
-Ironhack objectives:
+**Ironhack objectives:**
 * Build a model that will predict the price of a house based on features provided in the dataset.
 * Use business intelligence tools to explore the charachteristics of the houses.
 * To know which factors are responsible for higher property value - $650K and above.
 
-Group objectives:
+**Group objectives:**
 * Be able to organize and divide the work accordingly to each other skills.
 * Document the process and keep everyone updated.
 * Merging all files and discussing the changes together.
@@ -25,19 +25,19 @@ Group objectives:
 
 ## Project development:
 
-Project deadline: 06 days (between 23/04/23 and 09/05/23)
+**Project deadline:** 06 days (between 23/04/23 and 09/05/23)
 
-Week 12:
-* DAY 1: 25-04-2023 | Project discussion, Tasks assignments and division. 
-* DAY 2: 27-04-2023 | Starting with Trello, merging python scripts, starting to work on SQL and storytelling brainstorming
-* DAY 3: 28-04-2023 | Futher improvments to the code and opening discussions, more task assigments and divison, SQL part done. Also;
-  *  We discussed about making “house_lifetime” based on the last year of the dataset, instead of the current year (2023).
+**Week 12:**
+* **DAY 1** (25-04-2023) | Project discussion, Tasks assignments and division. 
+* **DAY 2** (27-04-2023) | Starting with Trello, merging python scripts, starting to work on SQL and storytelling brainstorming
+* **DAY 3** (28-04-2023) | Futher improvments to the code and opening discussions, more task assigments and divison, SQL part done. Also;
+  * We discussed about making “house_lifetime” based on the last year of the dataset, instead of the current year (2023).
   * We discussed about making year a continuous variable, (e.g, 2013,02 to represent february) to have a a single feature that represents yearly trends.
 
-Week 13:
-* DAY 1: 02-05-2023 | 
-* DAY 2: 06-05-2023 | 
-* DAY 3: 09-05-2023 | Presentation day
+**Week 13:**
+* **DAY 4:** (02-05-2023) | 
+* **DAY 5:** (06-05-2023) | 
+* **DAY 6:** (09-05-2023) | Presentation day
 
 ## About the folders:
 
