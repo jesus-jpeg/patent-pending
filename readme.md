@@ -18,7 +18,7 @@ This project is a knowledge triumvirate curated by [Gladys](https://github.com/G
 * Use business intelligence tools to explore the charachteristics of the houses.
 * To know which factors are responsible for higher property value - $650K and above. 
 
-## ...About the data,
+## About the data:
 
 💻 The following dataset consists of **one-year data** (between May 2014 - May 2015) historic data of houses sold in King County, which includes Seattle, among 21 different columns:
   
