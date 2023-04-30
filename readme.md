@@ -28,7 +28,7 @@ This project is a knowledge triumvirate of <a href="https://github.com/Gladysdat
 **Project deadline:** 06 days (between 23/04/23 and 09/05/23)
 
 **Week 12:**
-* **DAY 1** (25-04-2023) | Project discussion, Tasks assignments and division. 
+* **DAY 1** `(25-04-2023)` | Project discussion, Tasks assignments and division. 
 * **DAY 2** (27-04-2023) | Starting with Trello, merging python scripts, starting to work on SQL and storytelling brainstorming
 * **DAY 3** (28-04-2023) | Futher improvments to the code and opening discussions, more task assigments and divison, SQL part done. Also;
   * We discussed about making “house_lifetime” based on the last year of the dataset, instead of the current year (2023).
