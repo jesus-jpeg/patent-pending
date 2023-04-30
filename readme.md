@@ -1,4 +1,4 @@
-# House-Value; The Seattle Project.
+# Patent-Pending; House-Value (?)
 
 <p align="center">
   <img src="https://i.postimg.cc/vHbdLszx/Untitled-design-2.png" alt="Sample image">
