@@ -1,6 +1,4 @@
-<p align="center">
-  <b>About the Data</b>
-</p>
+## About the Data
 
 <p align="justify">
   💻 The following is a collection of <b>one-year data</b> (from May 2014 - May 2015) of house sale prices for King County, which includes Seattle, among 21 different columns:
