@@ -23,6 +23,17 @@ This project is a knowledge triumvirate of <a href="https://github.com/Gladysdat
 * Work on personal weak-points and try to learn from each other.
 * Have fun ! :)
 
+## About the folders:
+
+* [00_data](https://github.com/isi-mube/patent-pending/tree/main/00_data) --> data and datasets info
+* [01_usefulness](https://github.com/isi-mube/patent-pending/tree/main/01_usefulness) --> tailor's drawer to quickly access to functions, libraries and a template
+* [02_project_info](https://github.com/isi-mube/patent-pending/tree/main/02_project_info) --> ironhack deliverables files
+* [03_python_scripts](https://github.com/isi-mube/patent-pending/tree/main/03_python_scripts) --> python source code
+* [04_sql_script](https://github.com/isi-mube/patent-pending/tree/main/04_sql_script) --> sql source script
+* [05_sandboxes](https://github.com/isi-mube/patent-pending/tree/main/05_jc_sandbox) --> testing scripts and ideas
+* [06_tableau](https://github.com/isi-mube/patent-pending/tree/main/06_tableau) --> tableau exercise
+* [06_presentation](https://github.com/isi-mube/patent-pending/tree/main/07_presentation) --> presentation and conclusions
+
 ## Project development:
 
 **Project deadline:** 06 days (between 23/04/23 and 09/05/23)
@@ -38,17 +49,6 @@ This project is a knowledge triumvirate of <a href="https://github.com/Gladysdat
 * **DAY 4:** `(02-05-2023)` | 
 * **DAY 5:** `(06-05-2023)` | 
 * **DAY 6:** `(09-05-2023)` | Presentation day
-
-## About the folders:
-
-* [00_data](https://github.com/isi-mube/patent-pending/tree/main/00_data) --> data and datasets info
-* [01_usefulness](https://github.com/isi-mube/patent-pending/tree/main/01_usefulness) --> tailor's drawer to quickly access to functions, libraries and a template
-* [02_project_info](https://github.com/isi-mube/patent-pending/tree/main/02_project_info) --> ironhack deliverables files
-* [03_python_scripts](https://github.com/isi-mube/patent-pending/tree/main/03_python_scripts) --> python source code
-* [04_sql_script](https://github.com/isi-mube/patent-pending/tree/main/04_sql_script) --> sql source script
-* [05_sandboxes](https://github.com/isi-mube/patent-pending/tree/main/05_jc_sandbox) --> testing scripts and ideas
-* [06_tableau](https://github.com/isi-mube/patent-pending/tree/main/06_tableau) --> tableau exercise
-* [06_presentation](https://github.com/isi-mube/patent-pending/tree/main/07_presentation) --> presentation and conclusions
 
 ## Tools
 **Enviornments**
