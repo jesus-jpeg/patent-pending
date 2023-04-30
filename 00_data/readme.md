@@ -97,7 +97,7 @@
 </table>
 </p>
 
-## About the Datasets
+## About this folder Datasets
 * `regression_data.xls` and `regression_data.csv` are the provided ones.
 * `data_copy`: it's created in 01_data_extraction python script
 * `seattle`: it's created in 01_data_extraction python script.
