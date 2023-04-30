@@ -121,6 +121,14 @@
 
 ## Tools
 **Enviornments**
+* JupyterLab, MySQL Workbench, Tableau, Trello, Google Doc
 
 **Libraries**
-
+* Pandas: data manipulation.
+* Os: File managment.
+* Warnings: Roses are red. Violets are blue. Warnings are annoying.
+* Datetime: To play with time.
+* Matplotlib: 2D visualizations.
+* Seaborn: High-resolution visualizations.
+* Linear Regression model: From sklearn.
+* Skew: From scipy stats.
