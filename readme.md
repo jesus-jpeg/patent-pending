@@ -1,6 +1,9 @@
 # Patent pending
-
+<p align="center">
+  
 ![image](https://user-images.githubusercontent.com/90038586/235341348-6b6453f8-239a-4311-b8ad-e137c3549454.png)
+  
+</p>
 
 This project is a knowledge triumvirate curated by [Gladys](https://github.com/Gladysdata), [izzy](https://github.com/isi-mube) & [JC](https://github.com/jesus-jpeg).
 
@@ -18,10 +21,13 @@ This project is a knowledge triumvirate curated by [Gladys](https://github.com/G
 * Use business intelligence tools to explore the charachteristics of the houses.
 * To know which factors are responsible for higher property value - $650K and above. 
 
-## ...About the data,
+## About the Data:
 
-💻 The following dataset consists of **one-year data** (between May 2014 - May 2015) historic data of houses sold in King County, which includes Seattle, among 21 different columns:
-  
+<p align="justify">
+  💻 The following is a collection of <b>one-year data</b> (from May 2014 - May 2015) of house sale prices for King County, which includes Seattle, among 21 different columns:
+</p>
+
+<p align="center">
 <table border="1">
   <tr>
     <th>Column Name</th>
@@ -112,6 +118,7 @@ This project is a knowledge triumvirate curated by [Gladys](https://github.com/G
     <td>LotSize area in 2015</td>
   </tr>
 </table>
+</p>
 
 ## Official project deadline: 6 days.
 
