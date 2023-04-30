@@ -57,7 +57,7 @@ This project is a knowledge triumvirate of <a href="https://github.com/Gladysdat
 * Tableau: visualizations
 * Trello: organization 
 * Google Doc: organization 
-* Canva: Logo and presentation
+* Canva: logo and presentation
 
 **Libraries**
 * Pandas: data manipulation.
