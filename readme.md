@@ -2,11 +2,15 @@
 
 ![image](https://user-images.githubusercontent.com/90038586/235341348-6b6453f8-239a-4311-b8ad-e137c3549454.png)
 
-**Storytelling**: You are working as an analyst for a real estate company. Your company wants to build a machine learning model to predict the selling prices of houses based on a variety of features on which the value of the house is evaluated.
+This project is an equally knowledge amalgam triumvirate made of [Gladys](https://github.com/Gladysdata), [izzy](https://github.com/isi-mube) & [JC](https://github.com/jesus-jpeg).
 
 1. [SQL script](https://github.com/isi-mube/name-pending/tree/main/04_sql_script)
 2. [Python scripts](https://github.com/isi-mube/name-pending/tree/main/03_python_scripts)
 3. [Python sandboxes](https://github.com/isi-mube/name-pending/tree/main/05_jc_sandbox)
+3. [Presentation]()
+
+**Storytelling**: You are working as an analyst for a real estate company. Your company wants to build a machine learning model to predict the selling prices of houses based on a variety of features on which the value of the house is evaluated.
+
 
 ## Objectives:
 
