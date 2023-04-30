@@ -21,9 +21,7 @@ This project is a knowledge triumvirate curated by [Gladys](https://github.com/G
 * Use business intelligence tools to explore the charachteristics of the houses.
 * To know which factors are responsible for higher property value - $650K and above. 
 
-<p align="center">
-  <b>About the Data</b>
-</p>
+## About the Data:
 
 <p align="justify">
   💻 The following is a collection of <b>one-year data</b> (from May 2014 - May 2015) of house sale prices for King County, which includes Seattle, among 21 different columns:
