@@ -29,15 +29,15 @@ This project is a knowledge triumvirate of <a href="https://github.com/Gladysdat
 
 **Week 12:**
 * **DAY 1** `(25-04-2023)` | Project discussion, Tasks assignments and division. 
-* **DAY 2** (27-04-2023) | Starting with Trello, merging python scripts, starting to work on SQL and storytelling brainstorming
-* **DAY 3** (28-04-2023) | Futher improvments to the code and opening discussions, more task assigments and divison, SQL part done. Also;
+* **DAY 2** `(27-04-2023)` | Starting with Trello, merging python scripts, starting to work on SQL and storytelling brainstorming
+* **DAY 3** `(28-04-2023)` | Futher improvments to the code and opening discussions, more task assigments and divison, SQL part done. Also;
   * We discussed about making “house_lifetime” based on the last year of the dataset, instead of the current year (2023).
   * We discussed about making year a continuous variable, (e.g, 2013,02 to represent february) to have a a single feature that represents yearly trends.
 
 **Week 13:**
-* **DAY 4:** (02-05-2023) | 
-* **DAY 5:** (06-05-2023) | 
-* **DAY 6:** (09-05-2023) | Presentation day
+* **DAY 4:** `(02-05-2023)` | 
+* **DAY 5:** `(06-05-2023)` | 
+* **DAY 6:** `(09-05-2023)` | Presentation day
 
 ## About the folders:
 
@@ -67,4 +67,7 @@ This project is a knowledge triumvirate of <a href="https://github.com/Gladysdat
 * Matplotlib: 2D visualizations.
 * Seaborn: High-resolution visualizations.
 * Linear Regression model: From sklearn.
-* Skew: From scipy stats.
+* Skew: data asymmetry.
+* StandardScaler: data normalization.
+* Train-test splits: sets.
+* Metrics: R2, RMSE, MSE, MAE
