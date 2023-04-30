@@ -2,14 +2,17 @@
 
 ![image](https://user-images.githubusercontent.com/90038586/235341348-6b6453f8-239a-4311-b8ad-e137c3549454.png)
 
+**Storytelling**: You are working as an analyst for a real estate company. Your company wants to build a machine learning model to predict the selling prices of houses based on a variety of features on which the value of the house is evaluated.
+
 1. [SQL script](https://github.com/isi-mube/name-pending/tree/main/04_sql_script)
 2. [Python scripts](https://github.com/isi-mube/name-pending/tree/main/03_python_scripts)
 3. [Python sandboxes](https://github.com/isi-mube/name-pending/tree/main/05_jc_sandbox)
 
 ## Objectives:
 
-💻 The following dataset consists of **one-year data** (between May 2014 - May 2015) historic data of houses sold in King County, which includes Seattle, among 21 different columns:
-
+* Build a model that will predict the price of a house based on features provided in the dataset.
+* Use business intelligence tools to explore the charachteristics of the houses.
+* To know which factors are responsible for higher property value - $650K and above. 
 
 ## ...About the data,
 
