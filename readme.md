@@ -1,7 +1,7 @@
 # Patent-Pending; House-Value (?)
 
 <p align="center">
-  <img src="https://i.postimg.cc/vHbdLszx/Untitled-design-2.png" alt="Sample image">
+  <img src="https://i.postimg.cc/vHbdLszx/Untitled-design-2.png" alt="Sample image" width="50%">
 </p>
 
 This project is a knowledge triumvirate curated by [Gladys](https://github.com/Gladysdata), [izzy](https://github.com/isi-mube) & [JC](https://github.com/jesus-jpeg).
