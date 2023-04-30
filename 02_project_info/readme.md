@@ -1,168 +1,51 @@
-# Patent pending
-<p align="center">
-  
-![image](https://user-images.githubusercontent.com/90038586/235341348-6b6453f8-239a-4311-b8ad-e137c3549454.png)
-  
-</p>
+# Mid-bootcamp project deliverables
 
-This project is a knowledge triumvirate curated by [Gladys](https://github.com/Gladysdata), [izzy](https://github.com/isi-mube) & [JC](https://github.com/jesus-jpeg).
+You should maintain a separate GitHub repo for this project with the following files:
 
-1. [SQL script](https://github.com/isi-mube/name-pending/tree/main/04_sql_script)
-2. [Python scripts](https://github.com/isi-mube/name-pending/tree/main/03_python_scripts)
-3. [Python sandboxes](https://github.com/isi-mube/name-pending/tree/main/05_jc_sandbox)
-3. [Presentation]()
+- `Readme.md` - This markdown will explain the data analysis workflow including the problem statement/ business the objective, data extraction, data wrangling, etc. Here you should explain the business analytic approach you used to solve the problem. Please be detailed in explaining the steps you followed. It is important to keep in mind that the document is written for the readers, who may or may not have the technical expertise with Python/SQL/Tableau.
+- Python File - It can be either uploaded as a `.ipynb` file (Jupyter notebook) or `.py` file. The Python code should be well documented with comments, explaining the code, EDA operations, logic used - especially with data cleaning operations, and any assumptions followed in the model.
+- Dataset/datasets (provided to you)
+- Tableau workbook
+- File containing SQL queries
 
-**Storytelling**: You are working as an analyst for a real estate company. Your company wants to build a machine learning model to predict the selling prices of houses based on a variety of features on which the value of the house is evaluated.
+\*\* You are provided with the rubrics that will be used to evaluate the projects. Please go through the document for more details on the specificities for different files.
 
+### Some other tips
 
-## Objectives:
+- Pay attention to the naming convention: organize the files in folders with appropriate names
+- Do not include code snippets in the `Readme.md` file
+- Explain the business insights and the regression/classification model results
+- Explain the future score of work
+- Make daily commits to the repo
 
-* Build a model that will predict the price of a house based on features provided in the dataset.
-* Use business intelligence tools to explore the charachteristics of the houses.
-* To know which factors are responsible for higher property value - $650K and above. 
+# Project details - regression
 
-## About the Data:
+**Background**: You are working as an analyst for a real estate company. Your company wants to build a machine learning model to predict the selling prices of houses based on a variety of features on which the value of the house is evaluated.
 
-<p align="justify">
-  💻 The following is a collection of <b>one-year data</b> (from May 2014 - May 2015) of house sale prices for King County, which includes Seattle, among 21 different columns:
-</p>
+**Objective**: The task is to build a model that will predict the price of a house based on features provided in the dataset. The senior management also wants to explore the characteristics of the houses using some business intelligence tool. One of those parameters include understanding which factors are responsible for higher property value - \$650K and above.
+The questions have been provided later in the document for which you can use tableau.
 
-<p align="center">
-<table border="1">
-  <tr>
-    <th>Column Name</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td>id</td>
-    <td>A notation for a house</td>
-  </tr>
-  <tr>
-    <td>date</td>
-    <td>Date house was sold</td>
-  </tr>
-  <tr>
-    <td>price</td>
-    <td>Price is prediction target</td>
-  </tr>
-  <tr>
-    <td>bedrooms</td>
-    <td>Number of Bedrooms/House</td>
-  </tr>
-  <tr>
-    <td>bathrooms</td>
-    <td>Number of bathrooms/bedrooms</td>
-  </tr>
-  <tr>
-    <td>sqft_living</td>
-    <td>Square footage of the home</td>
-  </tr>
-  <tr>
-    <td>sqft_lot</td>
-    <td>Square footage of the lot</td>
-  </tr>
-  <tr>
-    <td>floors</td>
-    <td>Total floors (levels) in house</td>
-  </tr>
-  <tr>
-    <td>waterfront</td>
-    <td>House which has a view to a waterfront</td>
-  </tr>
-  <tr>
-    <td>view</td>
-    <td>Has been viewed</td>
-  </tr>
-  <tr>
-    <td>condition</td>
-    <td>How good the condition is Overall</td>
-  </tr>
-  <tr>
-    <td>grade</td>
-    <td>Overall grade given to the housing unit, based on King County grading system</td>
-  </tr>
-  <tr>
-    <td>sqft_above</td>
-    <td>Square footage of house apart from basement</td>
-  </tr>
-  <tr>
-    <td>sqft_basement</td>
-    <td>Square footage of the basement</td>
-  </tr>
-  <tr>
-    <td>yr_built</td>
-    <td>Built Year</td>
-  </tr>
-  <tr>
-    <td>yr_renovated</td>
-    <td>Year when house was renovated</td>
-  </tr>
-  <tr>
-    <td>zipcode</td>
-    <td>Zip code</td>
-  </tr>
-  <tr>
-    <td>lat</td>
-    <td>Latitude coordinate</td>
-  </tr>
-  <tr>
-    <td>long</td>
-    <td>Longitude coordinate</td>
-  </tr>
-  <tr>
-    <td>sqft_living15</td>
-    <td>Living room area in 2015</td>
-  </tr>
-  <tr>
-    <td>sqft_lot15</td>
-    <td>LotSize area in 2015</td>
-  </tr>
-</table>
-</p>
+**Data**: The data set consists of information on some 22,000 properties.  The dataset consisted of historic data of houses sold between May 2014 to May 2015.
+These are the definitions of data points provided:
+(Note: For some of the variables that are self explanatory, no definition has been provided)
 
-## Official project deadline: 6 days.
+- **Id**: Unique identification number for the property.
+- **date**: date the house was sold.
+- **price**: price of the house.
+- **waterfront**: house which has a view to a waterfront.
+- **condition**: How good the condition is (overall). **1** indicates worn out property and **5** excellent.
+- **grade**: Overall grade given to the housing unit, based on King County grading system. 1 poor ,13 excellent.
+- **Sqft_above**: square footage of house apart from basement.
+- **Sqft_living15**: Living room area in 2015(implies - some renovations). This might or might not have affected the lotsize area.
+- **Sqft_lot15**: lotSize area in 2015(implies - some renovations).
 
-Week 12:
-* DAY 1: 25-04-2023 | Gladys/izzy/JC meeting: Project discussion, Tasks assignments and division. 
-* DAY 2: 27-04-2023 | Gladys/izzy/JC meeting: Starting with Trello, merging python scripts, starting to work on SQL and storytelling brainstorming
-* DAY 3: 28-04-2023 | Gladys/izzy/JC meeting: Futher improvments to the code and opening discussions, more task assigments and divison, SQL part done.
+### Exploring the data
 
-Week 13:
-* DAY 1: 02-05-2023 | Gladys/izzy/JC meeting:
-* DAY 2: 06-05-2023 | Gladys/izzy/JC meeting: 
-* DAY 3: 09-05-2023 | Presentation day
+We encourage you to thoroughly understand your data and take the necessary steps to prepare your data for modeling before building exploratory or predictive models. Since this is a classification model, you can use linear regression for classification for building a model. You are also encouraged to use other models in your project including KNN, decision trees for regression.
+To explore the data, you can use the techniques that have been discussed in class. Some of them include using the describe method, checking null values, using _matplotlib_ and _seaborn_ for developing visualizations.
+The data has a number of categorical and numerical variables. Explore the nature of data for these variables before you start with the data cleaning process and then data pre-processing (scaling numerical variables and encoding categorical variables).
+You will also use tableau to visually explore the data further.
 
-## ...About sandboxes,
+### Model
 
-* They are just awesome and are basically a shared python playground for testing (mostly, [JC](https://github.com/jesus-jpeg) work !)
-
-## ...About python scripts,
-
-* 01_data_extraction: We extracted and take a quick look to our data. Our target variable will be price and we decided to create a new feature called “house lifetime” (based on the subtraction of the current year and either year_renovated -if is not equal to 0- or the year built). Also, we draw general conclusions on how to use the data.
-* 02_data_cleaning: We check for duplicates, NaN or empty space. About dates (when the house was sold), we extracted the year and then encoded months with get_dummies, we also saved geographical information in a different dataset (Seattle), created “house_lifetime” feature and, lastly, kindly moved our target (price) to the right.
-* 03_eda: It felt like the actual data cleaning. We chekced distributions, skewness, outliers and correlations. We considered checking imbalance data, but made no sense in a Linear Regression model.
-
-## Model Results
-
-## Testing the Model
-
-## Model refining,
-
-## Testing the New Model
-
-* We discussed about making “house_lifetime” based on the last year of the dataset, instead of the current year (2023).
-* We discussed about making year a continuous variable, (e.g, 2013,02 to represent february) to have a a single feature that represents yearly trends.
-
-## Tools
-**Enviornments**
-* JupyterLab, MySQL Workbench, Tableau, Trello, Google Doc
-
-**Libraries**
-* Pandas: data manipulation.
-* Os: File managment.
-* Warnings: Roses are red. Violets are blue. Warnings are annoying.
-* Datetime: To play with time.
-* Matplotlib: 2D visualizations.
-* Seaborn: High-resolution visualizations.
-* Linear Regression model: From sklearn.
-* Skew: From scipy stats.
+Use different models to compare the accuracies and find the model that best fits your data. You can use the measures of accuracies that have been discussed in class. Please note that while comparing different models, make sure you use the same measure of accuracy as a benchmark.
