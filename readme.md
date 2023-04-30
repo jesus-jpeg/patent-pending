@@ -4,14 +4,16 @@
   <img src="https://i.postimg.cc/vHbdLszx/Untitled-design-2.png" alt="Sample image" width="50%">
 </p>
 
-<p>
+<p style="text-align: justify;">
   This project is a knowledge triumvirate of <a href="https://github.com/Gladysdata">Gladys</a>, <a href="https://github.com/isi-mube">izzy</a> & <a href="https://github.com/jesus-jpeg">JC</a>.
 </p>
-<h2>Ironhack storytelling</h2>
-<p>
+
+<p style="font-weight: bold; text-align: justify;">
+  Ironhack storytelling:
+</p>
+<p style="text-align: justify;">
   You are working as an analyst for a real estate company. Your company wants to build a machine learning model to predict the selling prices of houses based on a variety of features on which the value of the house is evaluated.
 </p>
-
 
 ## Objectives:
 
