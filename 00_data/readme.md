@@ -100,6 +100,6 @@
 ## About this folder Datasets
 * `regression_data.xls` and `regression_data.csv` are the provided ones.
 * `data_copy`: it's created in 01_data_extraction python script
-* `seattle`: it's created in 01_data_extraction python script.
+* `seattle`: it's created in 02_data_cleaning python script.
 * `cleaned`: it's created in 02_data_cleaning python script.
 * `df`: it's created in 03_eda python script.
