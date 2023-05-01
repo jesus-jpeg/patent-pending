@@ -4,7 +4,7 @@
   <img src="https://i.postimg.cc/vHbdLszx/Untitled-design-2.png" alt="Sample image" width="50%">
 </p>
 
-This the Ironhack **mid-bootcamp project**, made by the knowledge triumvirate of <a href="https://github.com/Gladysdata">Gladys</a>, <a href="https://github.com/isi-mube">izzy</a> & <a href="https://github.com/jesus-jpeg">JC</a>.
+This is Ironhack's **mid-bootcamp project**, developed and completed by the knowledge triumvirate of <a href="https://github.com/Gladysdata">Gladys</a>, <a href="https://github.com/isi-mube">izzy</a> & <a href="https://github.com/jesus-jpeg">JC</a>.
 
 **Ironhack storytelling**: You are working as an analyst for a real estate company. Your company wants to build a **machine learning** model to predict the selling prices of houses based on a variety of features on which the value of the house is evaluated
 
