@@ -32,7 +32,7 @@ This project is a knowledge triumvirate of <a href="https://github.com/Gladysdat
 * [04_sql_script](https://github.com/isi-mube/patent-pending/tree/main/04_sql_script) --> sql source script
 * [05_sandboxes](https://github.com/isi-mube/patent-pending/tree/main/05_jc_sandbox) --> testing scripts and ideas
 * [06_tableau](https://github.com/isi-mube/patent-pending/tree/main/06_tableau) --> tableau exercise
-* [06_presentation](https://github.com/isi-mube/patent-pending/tree/main/07_presentation) # --> presentation and conclusions
+* [06_presentation](https://github.com/isi-mube/patent-pending/tree/main/07_presentation) --> presentation and conclusions
 
 ## Project development:
 
