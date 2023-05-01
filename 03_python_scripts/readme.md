@@ -4,7 +4,7 @@
 * `02_data_cleaning`: We check for duplicates, NaN or empty space. About dates (when the house was sold), we extracted the year and then encoded months with get_dummies, we also saved geographical information in a different dataset (Seattle), created “house_lifetime” feature and, lastly, kindly moved our target (price) to the right.
 * `03_eda`: It felt like the actual data cleaning. We chekced distributions, skewness, outliers and correlations. We considered checking imbalance data, but made no sense in a Linear Regression model. We decided to firstly run the model without applying any change.
 * `04_machine_learning`: Test size of 30%, random state of 42, we fit X and Y train datasets to the model and made the first untoutched predictions. Our first `r2 score` was 80%, after doing the cleaning steps we got 63%. We will improve the model from here.
-* `05_improving_the_model`: Self-explanatory. Iteration process to make the score better and improve the data pre-processing.
+* `05_improving_the_model`: Self-explanatory. Iteration process to improve both the model and the data pre-processing.
 
 ## Model comparisions:
 
