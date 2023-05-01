@@ -13,7 +13,7 @@ This is Ironhack's **mid-bootcamp project**, developed and (not-yet)completed by
 
 **Ironhack objectives:**
 * Build a model that will **predict the price:** of a house based on features provided in the dataset.
-* Use **business intelligence** tools to explore the charachteristics of the houses.
+* Use **business intelligence** tools to explore the characteristics of the houses.
 * To know which factors are responsible for **higher property value - $650K and above**.
 
 **Group objectives:**
