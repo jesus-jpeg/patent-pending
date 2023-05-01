@@ -1,4 +1,4 @@
-# Patent-Pending; House-Value (?)
+# Patent-Pending
 
 <p align="center">
   <img src="https://i.postimg.cc/vHbdLszx/Untitled-design-2.png" alt="Sample image" width="50%">
