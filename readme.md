@@ -4,7 +4,7 @@
   <img src="https://i.postimg.cc/vHbdLszx/Untitled-design-2.png" alt="Sample image" width="50%">
 </p>
 
-This is Ironhack's **mid-bootcamp project**, developed and completed by the knowledge triumvirate of <a href="https://github.com/Gladysdata">Gladys</a>, <a href="https://github.com/isi-mube">izzy</a> & <a href="https://github.com/jesus-jpeg">JC</a>.
+This is Ironhack's **mid-bootcamp project**, developed and (not-yet)completed by the knowledge triumvirate of <a href="https://github.com/Gladysdata">Gladys</a>, <a href="https://github.com/isi-mube">izzy</a> & <a href="https://github.com/jesus-jpeg">JC</a>.
 
 **Ironhack storytelling**: You are working as an analyst for a real estate company. Your company wants to build a **machine learning** model to predict the selling prices of houses based on a variety of features on which the value of the house is evaluated
 
@@ -25,14 +25,14 @@ This is Ironhack's **mid-bootcamp project**, developed and completed by the know
 
 ## About the folders:
 
-* [00_data](https://github.com/isi-mube/patent-pending/tree/main/00_data) --> data and datasets info
-* [01_usefulness](https://github.com/isi-mube/patent-pending/tree/main/01_usefulness) --> tailor's drawer to quickly access to functions, libraries and a template
-* [02_project_info](https://github.com/isi-mube/patent-pending/tree/main/02_project_info) --> ironhack deliverables files
-* [03_python_scripts](https://github.com/isi-mube/patent-pending/tree/main/03_python_scripts) --> python source code
-* [04_sql_script](https://github.com/isi-mube/patent-pending/tree/main/04_sql_script) --> sql source script
-* [05_sandboxes](https://github.com/isi-mube/patent-pending/tree/main/05_jc_sandbox) --> testing scripts and ideas
-* [06_tableau](https://github.com/isi-mube/patent-pending/tree/main/06_tableau) --> tableau exercise
-* [06_presentation](https://github.com/isi-mube/patent-pending/tree/main/07_presentation) --> presentation and conclusions
+* [00_data](https://github.com/isi-mube/patent-pending/tree/main/00_data) --> data and datasets info.
+* [01_usefulness](https://github.com/isi-mube/patent-pending/tree/main/01_usefulness) --> tailor's drawer to quickly access to functions, libraries and a template.
+* [02_project_info](https://github.com/isi-mube/patent-pending/tree/main/02_project_info) --> ironhack deliverables files.
+* [03_python_scripts](https://github.com/isi-mube/patent-pending/tree/main/03_python_scripts) --> python source code.
+* [04_sql_script](https://github.com/isi-mube/patent-pending/tree/main/04_sql_script) --> sql source script.
+* [05_sandboxes](https://github.com/isi-mube/patent-pending/tree/main/05_jc_sandbox) --> testing scripts and ideas.
+* [06_tableau](https://github.com/isi-mube/patent-pending/tree/main/06_tableau) --> tableau exercise.
+* [06_presentation](https://github.com/isi-mube/patent-pending/tree/main/07_presentation) --> presentation and conclusions.
 
 ## Project development:
 
