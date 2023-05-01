@@ -50,7 +50,7 @@ This is Ironhack's **mid-bootcamp project**, developed and (not-yet)completed by
 * **DAY 5:** `(06-05-2023)` | 
 * **DAY 6:** `(09-05-2023)` | **Presentation day**
 
-**-->** [Trello-Link](https://trello.com/b/4p83d7iA/mid-project)
+**-->** [AGILE methods (Trello)](https://trello.com/b/4p83d7iA/mid-project)
 
 ## Tools
 **Enviornments**
