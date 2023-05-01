@@ -20,6 +20,7 @@ This is Ironhack's **mid-bootcamp project**, developed and (not-yet)completed by
 * Be able to **organize** and **divide** the work equally accordingly to each other skills.
 * **Document** the process and keep everyone updated.
 * **Merging** all files and **discussing the changes** together.
+* Learn about **AGILE** methodology.
 * Work on personal weak-points and try to **learn from each other**.
 * Have fun ! :)
 
