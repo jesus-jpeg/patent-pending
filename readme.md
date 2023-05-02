@@ -193,12 +193,12 @@ This is Ironhack's **mid-bootcamp project**, developed and (not-yet)completed by
 ## Tools:
 
 **Enviornments**
-* JupyterLab and JupyterNotebook: Python scripts.
-* MySQL Workbench: SQL script.
-* Tableau: Visualizations.
-* Trello: Organization.
-* Google Doc: Organization. 
-* Canva: Logo and presentation.
+* **JupyterLab** and **JupyterNotebook**: Python scripts.
+* **MySQL Workbench**: SQL script.
+* **Tableau**: Visualizations.
+* **Trello**: Organization.
+* **Google Doc**: Organization. 
+* **Canva**: Logo and presentation.
 
 **Libraries**
 * **Pandas**: Data manipulation.
