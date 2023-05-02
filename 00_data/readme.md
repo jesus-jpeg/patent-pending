@@ -97,8 +97,8 @@
 </table>
 </p>
 
-* --> **Target variable**: Price. We want to have a deeper understanding of which features contribute to the price value. Also, we want to make some further exploration to higher property value ($650K and above) for the final conclusions.
-* --> **Features**: 
+* **Target variable**: Price. We want to have a deeper understanding of which features contribute to the price value. Also, we want to make some further exploration to higher property value ($650K and above) for the final conclusions.
+* **Features**: 
     * We will extract year and month, treating month as categorical (we discussed about making it a continous variable with year)
     * `sqft_living`, `sqft_lot`, `sqft_above`, `sqft_living15` and `sqft_lot15` are interesting features to look at. 
     * `bedrooms`, `bathrooms`, `floors`, `waterfront` and `view` can be treated as categorical
