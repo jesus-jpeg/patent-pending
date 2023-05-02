@@ -52,7 +52,7 @@ This is Ironhack's **mid-bootcamp project**, developed and (not-yet)completed by
 
 **-->** [AGILE methods (Trello)](https://trello.com/b/4p83d7iA/mid-project)
 
-## About the Data:
+## About the Data
 
 <p align="justify">
   💻 The following is a collection of <b>one-year data</b> (from May 2014 - May 2015) of house sale prices for King County, which includes Seattle, among 21 different columns:
@@ -150,6 +150,16 @@ This is Ironhack's **mid-bootcamp project**, developed and (not-yet)completed by
   </tr>
 </table>
 </p>
+
+* **Target variable**: Price. We want to have a deeper understanding of which features contribute to the price value. Also, we want to make some further exploration to higher property value ($650K and above) for the final conclusions.
+* **Features**: 
+    * We will extract year and month, treating month as categorical (we discussed about making it a continous variable with year)
+    * `sqft_living`, `sqft_lot`, `sqft_above`, `sqft_living15` and `sqft_lot15` are interesting features to look at. 
+    * `bedrooms`, `bathrooms`, `floors`, `waterfront` and `view` can be treated as categorical
+    * `condition` and `grade` should be treatedd as categorical as well (ordinal, in this case).
+    * With `yr_built` and `yr_renovated` we will do **feature engineering** to create the house lifetime (based on the subtraction of the current year and either year_renovated -if is not equal to 0- or the year built).
+    * `lat`, `long`, `zipcode` are interesting ones, and we will do further exploration in EDA and make a Seattle map.
+    * And of cours, what about `id` right? We will do of course log transform and plot it. (just in case --> it's a joke !)
 
 ## Model comparisions:
 
