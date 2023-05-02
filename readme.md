@@ -43,8 +43,11 @@ This is Ironhack's **mid-bootcamp project**, developed and (not-yet)completed by
 
 ## About the folders:
 
-Navigating through them, from 01 to 07 should give the reader the information needed to understand this project end to end. 
+<p align="center">
+  <img src="https://i.imgflip.com/7k9e3u.jpg" alt="Sample image" width="50%">
+</p>
 
+https://imgflip.com/i/7k9e3u
 * [00_data](https://github.com/isi-mube/patent-pending/tree/main/00_data) --> data and datasets info.
 * [01_usefulness](https://github.com/isi-mube/patent-pending/tree/main/01_usefulness) --> tailor's drawer to quickly access to functions, libraries and a template.
 * [02_project_info](https://github.com/isi-mube/patent-pending/tree/main/02_project_info) --> ironhack deliverables files.
