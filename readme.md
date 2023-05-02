@@ -1,7 +1,7 @@
 # Patent-Pending
 
 <p align="center">
-  <img src="https://i.postimg.cc/vHbdLszx/Untitled-design-2.png" alt="Sample image" width="50%">
+  <img src="https://i.postimg.cc/vHbdLszx/Untitled-design-2.png" alt="Sample image" width="30%">
 </p>
 
 This is Ironhack's **mid-bootcamp project**, developed and (not-yet)completed by the knowledge triumvirate of <a href="https://github.com/Gladysdata">Gladys</a>, <a href="https://github.com/isi-mube">izzy</a> & <a href="https://github.com/jesus-jpeg">JC</a>.
@@ -44,10 +44,9 @@ This is Ironhack's **mid-bootcamp project**, developed and (not-yet)completed by
 ## About the folders:
 
 <p align="center">
-  <img src="https://i.imgflip.com/7k9e3u.jpg" alt="Sample image" width="20%">
+  <img src="https://i.imgflip.com/7k9e3u.jpg" alt="Sample image" width="15%">
 </p>
 
-https://imgflip.com/i/7k9e3u
 * [00_data](https://github.com/isi-mube/patent-pending/tree/main/00_data) --> data and datasets info.
 * [01_usefulness](https://github.com/isi-mube/patent-pending/tree/main/01_usefulness) --> tailor's drawer to quickly access to functions, libraries and a template.
 * [02_project_info](https://github.com/isi-mube/patent-pending/tree/main/02_project_info) --> ironhack deliverables files.
