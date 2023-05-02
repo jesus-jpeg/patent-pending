@@ -9,7 +9,6 @@ This is Ironhack's **mid-bootcamp project**, developed and (not-yet)completed by
 **Ironhack storytelling**: You are working as an analyst for a real estate company. Your company wants to build a **machine learning** model to predict the selling prices of houses based on a variety of features on which the value of the house is evaluated
 
 ## Objectives:
-_______________________
 
 **Ironhack objectives:**
 * Build a model that will **predict the price** of a house based on features provided in the dataset.
@@ -25,7 +24,6 @@ _______________________
 * Have fun ! :)
 
 ## About the folders:
-_______________________
 
 * [00_data](https://github.com/isi-mube/patent-pending/tree/main/00_data) --> data and datasets info.
 * [01_usefulness](https://github.com/isi-mube/patent-pending/tree/main/01_usefulness) --> tailor's drawer to quickly access to functions, libraries and a template.
@@ -37,7 +35,6 @@ _______________________
 * [06_presentation](https://github.com/isi-mube/patent-pending/tree/main/07_presentation) --> presentation and conclusions.
 
 ## Project development:
-_______________________
 
 **Project deadline:** 06 days (between 23/04/23 and 09/05/23)
 
@@ -56,7 +53,6 @@ _______________________
 **-->** [AGILE methods (Trello)](https://trello.com/b/4p83d7iA/mid-project)
 
 ## About the Data:
-_______________________
 
 <p align="justify">
   💻 The following is a collection of <b>one-year data</b> (from May 2014 - May 2015) of house sale prices for King County, which includes Seattle, among 21 different columns:
@@ -156,7 +152,6 @@ _______________________
 </p>
 
 ## Model comparisions:
-_______________________
 
 <table border="1">
   <thead>
@@ -196,7 +191,6 @@ _______________________
 </table>
 
 ## Tools:
-_______________________
 
 **Enviornments**
 * JupyterLab and JupyterNotebook: Python scripts.
