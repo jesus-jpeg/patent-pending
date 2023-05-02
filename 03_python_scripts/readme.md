@@ -45,24 +45,17 @@
   </tbody>
 </table>
 
-## Tools
-**Enviornments**
-* JupyterLab and JupyterNotebook: Python scripts.
-* MySQL Workbench: SQL script.
-* Tableau: Visualizations.
-* Trello: Organization.
-* Google Doc: Organization. 
-* Canva: Logo and presentation.
+## Tools:
 
 **Libraries**
-* Pandas: Data manipulation.
-* Os: File managment.
-* Warnings: Roses are red. Violets are blue. Warnings are annoying.
-* Datetime: To play with time.
-* Matplotlib: 2D visualizations.
-* Seaborn: High-resolution visualizations.
-* Linear Regression model: From sklearn.
-* Skew: Data asymmetry.
-* StandardScaler: Data normalization.
-* Train-test splits: Sets after X-Y split.
-* Metrics: R2, RMSE, MSE, MAE.
+* **Pandas**: Data manipulation.
+* **Os**: File managment.
+* **Warnings**: Roses are red. Violets are blue. Warnings are annoying.
+* **Datetime**: To play with time.
+* **Matplotlib**: 2D visualizations.
+* **Seaborn**: High-resolution visualizations.
+* **Linear Regression model**: From sklearn.
+* **Skew**: Data asymmetry.
+* **StandardScaler**: Data normalization.
+* **Train-test splits**: Sets after X-Y split.
+* **Metrics**: R2, RMSE, MSE, MAE.
