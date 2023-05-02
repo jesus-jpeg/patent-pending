@@ -8,11 +8,12 @@ This is Ironhack's **mid-bootcamp project**, developed and (not-yet)completed by
 
 **Ironhack storytelling**: You are working as an analyst for a real estate company. Your company wants to build a **machine learning** model to predict the selling prices of houses based on a variety of features on which the value of the house is evaluated
 
+_______________________
 
 ## Objectives:
 
 **Ironhack objectives:**
-* Build a model that will **predict the price:** of a house based on features provided in the dataset.
+* Build a model that will **predict the price** of a house based on features provided in the dataset.
 * Use **business intelligence** tools to explore the characteristics of the houses.
 * To know which factors are responsible for **higher property value - $650K and above**.
 
@@ -43,8 +44,8 @@ This is Ironhack's **mid-bootcamp project**, developed and (not-yet)completed by
 * **DAY 1** `(25-04-2023)` | Project discussion, **tasks assignments**** and division of the work. 
 * **DAY 2** `(27-04-2023)` | Starting with **Trello**, **merging python scripts**, starting to work on **SQL** and **storytelling-brainstorming**.
 * **DAY 3** `(28-04-2023)` | Futher improvments to the code and opening discussions, more task assigments, **SQL part done**. **Also**;
-  * We discussed about making “house_lifetime” based on the last year of the dataset, instead of the current year (2023).
-  * We discussed about making year a continuous variable, (e.g, 2013,02 to represent february) to have a a single feature that represents yearly trends.
+  * We discussed about making **“house_lifetime”** based on the last year of the dataset, instead of the current year (2023).
+  * We discussed about making year a **continuous variable**, (e.g, 2013,02 to represent february) to have a a single feature that represents yearly trends.
 
 **Week 13:**
 * **DAY 4:** `(02-05-2023)` | 
@@ -53,7 +54,7 @@ This is Ironhack's **mid-bootcamp project**, developed and (not-yet)completed by
 
 **-->** [AGILE methods (Trello)](https://trello.com/b/4p83d7iA/mid-project)
 
-## About the Data
+## About the Data:
 
 <p align="justify">
   💻 The following is a collection of <b>one-year data</b> (from May 2014 - May 2015) of house sale prices for King County, which includes Seattle, among 21 different columns:
@@ -157,7 +158,7 @@ This is Ironhack's **mid-bootcamp project**, developed and (not-yet)completed by
 <table border="1">
   <thead>
     <tr>
-      <th></th>
+      <th>Linear Regression</th>
       <th>First Model</th>
       <th>Patent-Pending 02</th>
       <th>Patent-Pending 03</th>
@@ -191,7 +192,7 @@ This is Ironhack's **mid-bootcamp project**, developed and (not-yet)completed by
   </tbody>
 </table>
 
-## Tools
+## Tools:
 **Enviornments**
 * JupyterLab and JupyterNotebook: Python scripts.
 * MySQL Workbench: SQL script.
@@ -201,14 +202,14 @@ This is Ironhack's **mid-bootcamp project**, developed and (not-yet)completed by
 * Canva: Logo and presentation.
 
 **Libraries**
-* Pandas: Data manipulation.
-* Os: File managment.
-* Warnings: Roses are red. Violets are blue. Warnings are annoying.
-* Datetime: To play with time.
-* Matplotlib: 2D visualizations.
-* Seaborn: High-resolution visualizations.
-* Linear Regression model: From sklearn.
-* Skew: Data asymmetry.
-* StandardScaler: Data normalization.
-* Train-test splits: Sets after X-Y split.
-* Metrics: R2, RMSE, MSE, MAE.
+* **Pandas**: Data manipulation.
+* **Os**: File managment.
+* **Warnings**: Roses are red. Violets are blue. Warnings are annoying.
+* **Datetime**: To play with time.
+* **Matplotlib**: 2D visualizations.
+* **Seaborn**: High-resolution visualizations.
+* **Linear Regression model**: From sklearn.
+* **Skew**: Data asymmetry.
+* **StandardScaler**: Data normalization.
+* **Train-test splits**: Sets after X-Y split.
+* **Metrics**: R2, RMSE, MSE, MAE.
