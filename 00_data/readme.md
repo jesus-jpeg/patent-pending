@@ -103,6 +103,7 @@
     * `sqft_living`, `sqft_lot`, `sqft_above`, `sqft_living15` and `sqft_lot15` are interesting features to look at. 
     * `bedrooms`, `bathrooms`, `floors`, `waterfront` and `view` can be treated as categorical
     * `condition` and `grade` should be treatedd as categorical as well (ordinal, in this case).
+    * With `yr_built` and `yr_renovated` we will do **feature engineering** to create the house lifetime (based on the subtraction of the current year and either year_renovated -if is not equal to 0- or the year built).
     * `lat`, `long`, `zipcode` are interesting ones, and we will do further exploration in EDA and make a Seattle map.
     * And of cours, what about `id` right? We will do of course log transform and plot it. (just in case --> it's a joke !)
 
