@@ -44,7 +44,7 @@ This is Ironhack's **mid-bootcamp project**, developed and (not-yet)completed by
 ## About the folders:
 
 <p align="center">
-  <img src="https://i.imgflip.com/7k9e3u.jpg" alt="Sample image" width="50%">
+  <img src="https://i.imgflip.com/7k9e3u.jpg" alt="Sample image" width="20%">
 </p>
 
 https://imgflip.com/i/7k9e3u
