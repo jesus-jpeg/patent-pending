@@ -35,7 +35,7 @@ This is Ironhack's **mid-bootcamp project**, developed and (not-yet)completed by
   * We discussed about making year a **continuous variable**, (e.g, 2013,02 to represent february) to have a a single feature that represents yearly trends.
 
 **Week 13:**
-* **DAY 4:** `(02-05-2023)` | 
+* **DAY 4:** `(02-05-2023)` | Presentation of the changes, brainstorming on how to improve the model, tasks division (Tableau, presentation, python fine-tunning)
 * **DAY 5:** `(06-05-2023)` | 
 * **DAY 6:** `(09-05-2023)` | **Presentation day**
 
