@@ -44,7 +44,7 @@ This is Ironhack's **mid-bootcamp project**, developed and (not-yet)completed by
 ## About the folders:
 
 <p align="center">
-  <img src="https://i.imgflip.com/7k9e3u.jpg" alt="Sample image" width="19%">
+  <img src="https://i.imgflip.com/7k9e3u.jpg" alt="Sample image" width="24%">
 </p>
 
 * [00_data](https://github.com/isi-mube/patent-pending/tree/main/00_data) --> data and datasets info.
