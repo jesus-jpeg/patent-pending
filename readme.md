@@ -30,14 +30,14 @@ This is Ironhack's **mid-bootcamp project**, developed and (not-yet)completed by
 **Week 12:**
 * **DAY 1** `(25-04-2023)` | Project discussion, **tasks assignments**** and division of the work. 
 * **DAY 2** `(27-04-2023)` | Starting with **Trello**, **merging python scripts**, starting to work on **SQL** and **storytelling-brainstorming**.
-* **DAY 3** `(28-04-2023)` | Futher improvments to the code and opening discussions, more task assigments, **SQL part done**. **Also**;
+* **DAY 3** `(29-04-2023)` | Futher improvments to the code and opening discussions, more task assigments, **SQL part done**. **Also**;
   * We discussed about making **“house_lifetime”** based on the last year of the dataset, instead of the current year (2023).
   * We discussed about making year a **continuous variable**, (e.g, 2013,02 to represent february) to have a a single feature that represents yearly trends.
 
 **Week 13:**
 * **DAY 4:** `(02-05-2023)` | Presentation of the changes, brainstorming on how to improve the model, tasks division (Tableau, presentation, python fine-tunning)
-* **DAY 5:** `(06-05-2023)` | 
-* **DAY 6:** `(09-05-2023)` | **Presentation day**
+* **DAY 5:** `(04-05-2023)` | Tasks division. Finishing with Tableau, presentation and python fine-tunning.
+* **DAY 6:** `(06-05-2023)` | **Presentation day**
 
 **-->** [AGILE methods (Trello)](https://trello.com/b/4p83d7iA/mid-project)
 
